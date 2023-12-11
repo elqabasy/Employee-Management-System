@@ -32,9 +32,7 @@ string File::mode() {
 
 // Functionality
 void File::open() {
-    if(this->_ready){
-        this->FILE = ifstream(this->_path, ios::openmode);
-    }
+    this->FILE = ifstream(this->_path, ios::openmode());
 }
 void File::close() {
     this->FILE.close();
