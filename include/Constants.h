@@ -1,0 +1,14 @@
+//
+// Created by Mahros on 12/11/2023.
+//
+
+#ifndef EMPLOYEE_MANAGEMENT_SYSTEM_CONSTANTS_H
+#define EMPLOYEE_MANAGEMENT_SYSTEM_CONSTANTS_H
+// FILE MODES
+#define FILE_MODE_READ          "r"
+#define FILE_MODE_WRITE         "w"
+#define FILE_MODE_APPEND        "a"
+#define FILE_MODE_READ_WRITE    "r+"
+#define FILE_MODE_WRITE_READ    "w+"
+#define FILE_MODE_APPEND_READ   "a+"
+#endif //EMPLOYEE_MANAGEMENT_SYSTEM_CONSTANTS_H

@@ -1,0 +1,10 @@
+//
+// Created by Mahros on 12/11/2023.
+//
+
+#ifndef EMPLOYEE_MANAGEMENT_SYSTEM_CONSOLE_H
+#define EMPLOYEE_MANAGEMENT_SYSTEM_CONSOLE_H
+// class Console{
+//
+// };
+#endif //EMPLOYEE_MANAGEMENT_SYSTEM_CONSOLE_H
