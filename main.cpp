@@ -1,6 +1,9 @@
 #include <iostream>
 
-int main() {
-    std::cout << "Hello, World!" << std::endl;
+int main(void) {
+    bool Status = true;
+    while (Status){
+        /* code */
+    }
     return 0;
 }
